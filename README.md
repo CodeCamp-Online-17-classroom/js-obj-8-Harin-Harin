@@ -2,6 +2,7 @@
 ### Lab54 Object: multiplyNumeric
 - ให้เขียนฟังก์ชัน multiplyNumeric(obj, num) เพื่อคูณ value ของ object
 - คูณเฉพาะ value ที่เป็น number เท่านั้น
+- หริณ มาเบ้า
 
 ```JavaScript
 let menu = {
